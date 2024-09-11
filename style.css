@@ -1,0 +1,10 @@
+.body {
+  display: grid;
+  grid-template-columns: repeat(12, auto);
+  gap: 0px;
+  margin: auto;
+  max-width: fit-content;
+  width: 500px;
+  margin-top: 10px;
+  transform: skewX(-20deg);
+}
